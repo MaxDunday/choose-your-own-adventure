@@ -1,6 +1,6 @@
 # Talking to our Fellow Adventurer
 
-Tather than checking to see what was behind the second door, you excitedly talk to your fellow adventurer about you have found thus far and start to speculate about the note found. 
+Rather than checking to see what was behind the second door, you excitedly talk to your fellow adventurer about you have found thus far and start to speculate about the note found. 
 
 "There is another way out of here if we can't get out the same way we came in" you say. 
 
@@ -12,5 +12,6 @@ Tather than checking to see what was behind the second door, you excitedly talk 
 
 "Do you think we should check out what that noise I heard earlier was?" 
 
-🤔Do you a. Checkout what's behind the door? [go check it out](./scene3.md)
+🤔Do you 
+        a. Checkout what's behind the door? [go check it out](./scene3.md)
         b. Continue to explore in the entryway to see if there are any other clues? [continue to explore](./scene4.md)
