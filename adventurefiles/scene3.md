@@ -1,6 +1,6 @@
 # Talking to our Fellow Adventurer
 
-Rather than checking to see what was behind the second door, you excitedly talk to your fellow adventurer about you have found thus far and start to speculate about the note found. 
+Rather than checking to see what was behind the second door, you excitedly talk to your fellow adventurer about what you have found thus far and start to speculate about the note found. 
 
 "There is another way out of here if we can't get out the same way we came in" you say. 
 
