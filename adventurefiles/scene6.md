@@ -6,6 +6,5 @@ To the right of the unmarked door is a wall that looks like it is an exterior on
 
 Further down the hallway you see a guard's back. He appears to be patrolling the hallway. There doesn't appear to be anyone else in the hallway. There are more crates that look like more supplies. 
 
-Do we:
 🚪[go into the unmarked door](./scene7.md)
 
