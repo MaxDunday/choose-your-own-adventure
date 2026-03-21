@@ -1,16 +1,5 @@
-# Talking to our Fellow Adventurer
+# Talking to our Fellow  part 2
 
-Tather than checking to see what was behind the second door, you excitedly talk to your fellow adventurer about you have found thus far and start to speculate about the note found. 
+Not finding anything else, you and your co-adventurer decide to move on. 
 
-"There is another way out of here if we can't get out the same way we came in" you say. 
-
-"True, that's good to know we have an alternative exit if need be" says your fellow adventurer. 
-
-"Why do you suppose the new guard was playing with dynamite? Do you think they are mining for gold and gems near here?" you ponder. 
-
-"I'm not sure what they were doing. But if there is dynamite in here we need to be careful if we come across it." says your fellow adventurer. 
-
-"Do you think we should check out what that noise I heard earlier was?" 
-
-🤔Do you a. Checkout what's behind the door? [go check it out](./scene3.md)
-        b. Continue to explore in the entryway to see if there are any other clues? [continue to explore](./scene5.md)
+[moving on](./scene5.md)
